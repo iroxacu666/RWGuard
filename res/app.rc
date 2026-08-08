@@ -1,5 +1,2 @@
 #include "resource.h"
 #include <windows.h>
-#include <commctrl.h>
-
-1 24 "../res/app.manifest"

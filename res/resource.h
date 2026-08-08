@@ -10,3 +10,6 @@
 #define IDC_LIST        1005
 #define IDC_STATUS      1006
 #define IDC_HEAL        1007
+#define IDC_DELETE      1008
+#define IDM_ABOUT       2010
+#define IDR_ABOUTPNG    3000
