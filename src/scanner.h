@@ -21,6 +21,7 @@ constexpr uint32_t LIGHT      = 0x12;
 constexpr uint32_t ATOMIC     = 0x14;
 constexpr uint32_t TEXDICT    = 0x16;
 constexpr uint32_t GEOMLIST   = 0x1A;
+constexpr uint32_t TEXNATIVE  = 0x15;
 
 constexpr uint32_t ATOMIC_STRUCT_MAX = 16;
 constexpr uint32_t LIGHT_STRUCT_MAX  = 24;
